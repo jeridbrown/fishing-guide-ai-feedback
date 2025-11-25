@@ -1,0 +1,9 @@
+# Issue template configuration
+# This forces users to pick a template (no blank issues)
+
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Questions / Discussion
+    url: https://github.com/jeridbrown/fishing-guide-ai-feedback/discussions
+    about: For questions, ideas, or general discussion that aren't bugs or feature requests
